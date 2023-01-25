@@ -34,7 +34,7 @@ def gcd():
 ```
 
 ## Output:
-![GCDofnos](https://user-images.githubusercontent.com/120623583/214615226-5b1bf911-6af7-409a-bf42-bfa31528231f.png)
+![GCDofnospython](https://user-images.githubusercontent.com/120623583/214615550-b2532b78-67bd-4033-9257-50c738b32720.png)
 
 
 ## Result:
